@@ -1,0 +1,3 @@
+User-Agent: Googlebot
+Sitemap: http://albovita.com.mk/sitemap.xml
+

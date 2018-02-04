@@ -1,0 +1,95 @@
+body {
+    font-family: 'Jura', sans-serif;
+    background-color:#f2f2f2;
+    background-image: url('/images/bg.png');
+    background-repeat: repeat;
+    font-size: 14px;
+}
+
+.navbar-default-color {
+    background-color: #428bca !important;
+    color: #fff;
+}
+
+.navbar-default-color a {
+    color: #fff !important;
+}
+
+
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.login-naslov {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.push {
+    margin-top: 10%;
+}
+.tdclass{
+    width: 500px;
+    height: auto;
+}
+
+#map { 
+    width: 100%; 
+    height:400px; 
+} 
+
+
+#infowindow {
+    width: 100px !important;
+    height: 100%;
+ 
+    text-align: center;
+}
+
+.sliki {
+display: block;
+float: left;
+padding: 5px;
+
+}
+
+.image-cropper a {
+position: relative;
+  width: auto !important;
+  height: auto;
+  overflow: hidden;
+display: block;
+background-color: #000;
+}
